@@ -17,3 +17,5 @@ I also co-taught a number of machine learning courses at Duke, including the Duk
 Before graduate school, I was also at Duke, earning my BSE in 2015 while double majoring in Electrical & Computer Engineering and Biomedical Engineering. 
 As an undergraduate, I was able to work on image processing with [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) and brain-computer interfaces with [Leslie Collins](https://ece.duke.edu/faculty/leslie-collins).
 Outside of research, I was a member of [Sabrosura](http://dukesabrosura.weebly.com/), Duke's premier Latin dance troupe, and enjoyed playing Ultimate frisbee. 
+
+Email: kevinjliang [at] fb [dot] com

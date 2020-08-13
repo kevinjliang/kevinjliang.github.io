@@ -26,9 +26,11 @@ Conferences
 
 Pre-prints
 ------
-* N Mehta, **K.J. Liang**, L. Carin. [Bayesian Nonparametric Weight Factorization for Continual Learning](http://kevinjliang.github.io/files/IBP_WF_for_CL.pdf), 2020.
+* W. Hao, N. Mehta, **K.J. Liang**, P. Cheng, M. El-Khamy, L. Carin. [WAFFLe: Weight Anonymized Factorization for Federated Learning](http://kevinjliang.github.io/files/WAFFLe.pdf), 2020.
+
+* N. Mehta, **K.J. Liang**, L. Carin. [Bayesian Nonparametric Weight Factorization for Continual Learning](http://kevinjliang.github.io/files/IBP_WF_for_CL.pdf), 2020.
       
-* N. Inkawhich, **K.J. Liang**, B Wang, M Inkawhich, L Carin, Y Chen. [Perturbing Across the Feature Hierarchy to Improve Standard and Strict Blackbox Attack Transferability](http://kevinjliang.github.io/files/Improved_FDA.pdf), 2020.
+* N. Inkawhich, **K.J. Liang**, B. Wang, M. Inkawhich, L. Carin, Y. Chen. [Perturbing Across the Feature Hierarchy to Improve Standard and Strict Blackbox Attack Transferability](http://kevinjliang.github.io/files/Improved_FDA.pdf), 2020.
         
 * **K.J. Liang**, C. Li, G. Wang, L. Carin. [Generative Adversarial Networks are a Continual Learning Problem](http://kevinjliang.github.io/files/GAN_is_CL.pdf), 2018.
 
