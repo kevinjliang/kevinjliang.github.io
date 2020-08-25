@@ -12,9 +12,9 @@ redirect_from:
 
 Education
 ======
-* **BSE** in Electrical and Computer Engineering/Biomedical Engineering, Duke University, 2015
-* **MS** in Electrical and Computer Engineering, Duke University, 2019
 * **PhD** in Electrical and Computer Engineering, Duke University, 2020
+* **MS** in Electrical and Computer Engineering, Duke University, 2019
+* **BSE** in Electrical and Computer Engineering/Biomedical Engineering, Duke University, 2015
 
 Work experience
 ======
