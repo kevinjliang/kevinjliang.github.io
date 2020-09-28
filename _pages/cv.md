@@ -58,6 +58,8 @@ Publications
 
 Conferences
 ------
+* N. Inkawhich, **K.J. Liang**, B. Wang, M. Inkawhich, L. Carin, Y. Chen. [Perturbing Across the Feature Hierarchy to Improve Standard and Strict Blackbox Attack Transferability](http://kevinjliang.github.io/files/Improved_FDA.pdf), *Neural Information Processing Systems* (**NeurIPS**) 2020.
+
 * Y. Yang\*, **K.J. Liang**\*, L. Carin. [Object Detection as a Positive-Unlabeled Problem](http://kevinjliang.github.io/files/pu_obj_det.pdf), *British Machine Vision Conference* (**BMVC**) 2020.
       
 * **K.J. Liang**, J. Sigman, G. Spell, D. Strellis, W. Chang, F. Liu, T. Mehta, L. Carin. [Toward Automatic Threat Recognition for Airport X-ray Baggage Screening with Deep Convolutional Object Detection](http://kevinjliang.github.io/files/obj_det_airport_xray.pdf), *Denver X-ray Conference* (**DXC**) 2020.
@@ -77,8 +79,6 @@ Pre-prints
 * W. Hao, N. Mehta, **K.J. Liang**, P. Cheng, M. El-Khamy, L. Carin. [WAFFLe: Weight Anonymized Factorization for Federated Learning](http://kevinjliang.github.io/files/WAFFLe.pdf), 2020.
 
 * N. Mehta, **K.J. Liang**, L. Carin. [Bayesian Nonparametric Weight Factorization for Continual Learning](http://kevinjliang.github.io/files/IBP_WF_for_CL.pdf), 2020.
-      
-* N. Inkawhich, **K.J. Liang**, B. Wang, M. Inkawhich, L. Carin, Y. Chen. [Perturbing Across the Feature Hierarchy to Improve Standard and Strict Blackbox Attack Transferability](http://kevinjliang.github.io/files/Improved_FDA.pdf), 2020.
         
 * **K.J. Liang**, C. Li, G. Wang, L. Carin. [Generative Adversarial Networks are a Continual Learning Problem](http://kevinjliang.github.io/files/GAN_is_CL.pdf), 2018.
 
