@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Kevin, a Research Scientist at Facebook. 
+Hi, I'm Kevin, a Research Scientist at Facebook AI Applied Research (FAIAR). 
 I'm a recent graduate from Duke University, where I completed my PhD while advised by [Lawrence Carin](http://people.ee.duke.edu/~lcarin/). 
 My research interests are primarily in deep learning, particularly computer vision, continual learning, federated learning, and adversarial attacks. 
 During my PhD, I interned at Google Cloud AI (2017), [Infinia ML](https://infiniaml.com/) (2018), and Facebook (2019). 
