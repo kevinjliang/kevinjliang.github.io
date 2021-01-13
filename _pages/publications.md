@@ -8,6 +8,8 @@ author_profile: true
 
 Conferences
 ------
+* **Kevin J Liang**\*, Weituo Hao\*, Dinghan Shen, Yufan Zhou, Weizhu Chen, Changyou Chen, Lawrence Carin. [MixKD: Towards Efficient Distillation of Large-scale Language Models](http://kevinjliang.github.io/files/MixKD.pdf), *International Conference on Learning Representations* (**ICLR**) 2021.
+
 * Nathan Inkawhich, **Kevin J Liang**, Binghui Wang, Matthew Inkawhich, Lawrence Carin, Yiran Chen. [Perturbing Across the Feature Hierarchy to Improve Standard and Strict Blackbox Attack Transferability](http://kevinjliang.github.io/files/Improved_FDA.pdf), *Neural Information Processing Systems* (**NeurIPS**) 2020.
 
 * Yuewei Yang\*, **Kevin J Liang**\*, Lawrence Carin. [Object Detection as a Positive-Unlabeled Problem](http://kevinjliang.github.io/files/pu_obj_det.pdf), *British Machine Vision Conference* (**BMVC**) 2020.
@@ -26,8 +28,6 @@ Conferences
 
 Pre-prints
 ------
-* **Kevin J Liang**\*, Weituo Hao\*, Dinghan Shen, Yufan Zhou, Weizhu Chen, Changyou Chen, Lawrence Carin. [MixKD: Towards Efficient Distillation of Large-scale Language Models](http://kevinjliang.github.io/files/MixKD.pdf), 2020.
-
 * Weituo Hao, Nikhil Mehta, **Kevin J Liang**, Pengyu Cheng, Mostafa El-Khamy, Lawrence Carin. [WAFFLe: Weight Anonymized Factorization for Federated Learning](http://kevinjliang.github.io/files/WAFFLe.pdf), 2020.
 
 * Nikhil Mehta, **Kevin J Liang**, Lawrence Carin. [Bayesian Nonparametric Weight Factorization for Continual Learning](http://kevinjliang.github.io/files/IBP_WF_for_CL.pdf), 2020.

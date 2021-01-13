@@ -46,7 +46,7 @@ Honors & Awards
 ======
 * NeurIPS 2020 Top 10% Reviewer
 * [E Bayard Halsted Fellowship](https://gradschool.duke.edu/about/news/fellowship-snapshots-2017) (2017)
-* Summa cum laude (top 5% of graduating class) (2015)
+* *Summa cum laude* (top 5% of graduating class) (2015)
 * [Graduation with Departmental Distinction, Electrical and Computer Engineering](https://ece.duke.edu/undergrad/students/graduation-distinction) (2015)
 * [George Sherrerd III Memorial Award](https://ece.duke.edu/about/news/duke-engineering-celebrates-class-2015) (2015) - Duke top undergraduate ECE award
 * [Da Vinci Award](https://ece.duke.edu/about/news/duke-engineering-celebrates-class-2015) (2015) - Duke top undergraduate BME award
@@ -59,6 +59,8 @@ Publications
 
 Conferences
 ------
+* **Kevin J Liang**\*, Weituo Hao\*, Dinghan Shen, Yufan Zhou, Weizhu Chen, Changyou Chen, Lawrence Carin. [MixKD: Towards Efficient Distillation of Large-scale Language Models](http://kevinjliang.github.io/files/MixKD.pdf), *International Conference on Learning Representations* (**ICLR**) 2021.
+
 * Nathan Inkawhich, **Kevin J Liang**, Binghui Wang, Matthew Inkawhich, Lawrence Carin, Yiran Chen. [Perturbing Across the Feature Hierarchy to Improve Standard and Strict Blackbox Attack Transferability](http://kevinjliang.github.io/files/Improved_FDA.pdf), *Neural Information Processing Systems* (**NeurIPS**) 2020.
 
 * Yuewei Yang\*, **Kevin J Liang**\*, Lawrence Carin. [Object Detection as a Positive-Unlabeled Problem](http://kevinjliang.github.io/files/pu_obj_det.pdf), *British Machine Vision Conference* (**BMVC**) 2020.
@@ -77,8 +79,6 @@ Conferences
 
 Pre-prints
 ------
-* **Kevin J Liang**\*, Weituo Hao\*, Dinghan Shen, Yufan Zhou, Weizhu Chen, Changyou Chen, Lawrence Carin. [MixKD: Towards Efficient Distillation of Large-scale Language Models](http://kevinjliang.github.io/files/MixKD.pdf), 2020.
-
 * Weituo Hao, Nikhil Mehta, **Kevin J Liang**, Pengyu Cheng, Mostafa El-Khamy, Lawrence Carin. [WAFFLe: Weight Anonymized Factorization for Federated Learning](http://kevinjliang.github.io/files/WAFFLe.pdf), 2020.
 
 * Nikhil Mehta, **Kevin J Liang**, Lawrence Carin. [Bayesian Nonparametric Weight Factorization for Continual Learning](http://kevinjliang.github.io/files/IBP_WF_for_CL.pdf), 2020.
@@ -96,8 +96,8 @@ Dissertation
 
 Service
 ======
-* Reviewer: AAAI, BMVC, ICLR, NeurIPS, WACV
-* Duke Undergraduate Admissions: Alumni Interviewer (2020-2021)
+* Reviewer: AAAI, BMVC, CVPR, ICLR, NeurIPS, TPAMI, WACV
+* Duke Undergraduate Admissions: Alumni Interviewer (2020-Present)
 * Duke "Engineering a Community": Mentor - (2017-2020)
 * Duke Engineering Alumni Council: Mentor - (2019-2020)
 * Duke E-Team: Mentor (2011-2015), ECE chair (2012-2015), President (2013-2015)
