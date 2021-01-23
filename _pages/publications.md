@@ -8,6 +8,8 @@ author_profile: true
 
 Conferences
 ------
+* Nikhil Mehta, **Kevin J Liang**, Vinay Kumar Verma, Lawrence Carin. [Continual Learning using a Bayesian Nonparametric Dictionary of Weight Factors](http://kevinjliang.github.io/files/IBP_WF_for_CL.pdf), *Artificial Intelligence and Statistics* (**AISTATS**) 2021.
+
 * **Kevin J Liang**\*, Weituo Hao\*, Dinghan Shen, Yufan Zhou, Weizhu Chen, Changyou Chen, Lawrence Carin. [MixKD: Towards Efficient Distillation of Large-scale Language Models](http://kevinjliang.github.io/files/MixKD.pdf), *International Conference on Learning Representations* (**ICLR**) 2021.
 
 * Nathan Inkawhich, **Kevin J Liang**, Binghui Wang, Matthew Inkawhich, Lawrence Carin, Yiran Chen. [Perturbing Across the Feature Hierarchy to Improve Standard and Strict Blackbox Attack Transferability](http://kevinjliang.github.io/files/Improved_FDA.pdf), *Neural Information Processing Systems* (**NeurIPS**) 2020.
@@ -29,14 +31,13 @@ Conferences
 Pre-prints
 ------
 * Weituo Hao, Nikhil Mehta, **Kevin J Liang**, Pengyu Cheng, Mostafa El-Khamy, Lawrence Carin. [WAFFLe: Weight Anonymized Factorization for Federated Learning](http://kevinjliang.github.io/files/WAFFLe.pdf), 2020.
-
-* Nikhil Mehta, **Kevin J Liang**, Lawrence Carin. [Bayesian Nonparametric Weight Factorization for Continual Learning](http://kevinjliang.github.io/files/IBP_WF_for_CL.pdf), 2020.
         
 * **Kevin J Liang**, Chunyuan Li, Guoyin Wang, Lawrence Carin. [Generative Adversarial Networks are a Continual Learning Problem](http://kevinjliang.github.io/files/GAN_is_CL.pdf), 2018.
 
 Dissertation
 ------
 * **Kevin J Liang**. [Deep Automatic Threat Recognition: Considerations for Airport X-Ray Baggage Screening](http://kevinjliang.github.io/files/dissertation.pdf), 2020.
+
 
 <!-- You can also find my articles on <u><a href="https://scholar.google.com/citations?user=DBqwS2YAAAAJ&hl=en">my Google Scholar profile</a>.</u> -->
 
