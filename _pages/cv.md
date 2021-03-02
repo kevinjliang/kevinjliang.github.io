@@ -59,6 +59,10 @@ Publications
 
 Conferences
 ------
+* Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Piyush Rai, Lawrence Carin. Efficient Feature Transformations for Discriminative and Generative Incremental Learning, *Computer Vision and Pattern Recognition* (**CVPR**) 2021.
+
+* Jing Huang, Guan Pang, Rama Kovvuri, Mandy Toh, **Kevin J Liang**, Praveen Krishnan, Xi Yin, Tal Hassner. A Multiplexed Network for End-to-End, Multilingual OCR, *Computer Vision and Pattern Recognition* (**CVPR**) 2021.
+
 * Nikhil Mehta, **Kevin J Liang**, Vinay Kumar Verma, Lawrence Carin. [Continual Learning using a Bayesian Nonparametric Dictionary of Weight Factors](http://kevinjliang.github.io/files/IBP_WF_for_CL.pdf), *Artificial Intelligence and Statistics* (**AISTATS**) 2021.
 
 * **Kevin J Liang**\*, Weituo Hao\*, Dinghan Shen, Yufan Zhou, Weizhu Chen, Changyou Chen, Lawrence Carin. [MixKD: Towards Efficient Distillation of Large-scale Language Models](http://kevinjliang.github.io/files/MixKD.pdf), *International Conference on Learning Representations* (**ICLR**) 2021.
