@@ -44,7 +44,6 @@ Skills and Qualifications
 
 Honors & Awards
 ======
-* NeurIPS 2020 Top 10% Reviewer
 * [E Bayard Halsted Fellowship](https://gradschool.duke.edu/about/news/fellowship-snapshots-2017) (2017)
 * *Summa cum laude* (top 5% of graduating class) (2015)
 * [Graduation with Departmental Distinction, Electrical and Computer Engineering](https://ece.duke.edu/undergrad/students/graduation-distinction) (2015)
@@ -59,9 +58,9 @@ Publications
 
 Conferences
 ------
-* Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Piyush Rai, Lawrence Carin. Efficient Feature Transformations for Discriminative and Generative Incremental Learning, *Computer Vision and Pattern Recognition* (**CVPR**) 2021.
+* Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Piyush Rai, Lawrence Carin. [Efficient Feature Transformations for Discriminative and Generative Incremental Learning](http://kevinjliang.github.io/files/EFTs.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2021.
 
-* Jing Huang, Guan Pang, Rama Kovvuri, Mandy Toh, **Kevin J Liang**, Praveen Krishnan, Xi Yin, Tal Hassner. A Multiplexed Network for End-to-End, Multilingual OCR, *Computer Vision and Pattern Recognition* (**CVPR**) 2021.
+* Jing Huang, Guan Pang, Rama Kovvuri, Mandy Toh, **Kevin J Liang**, Praveen Krishnan, Xi Yin, Tal Hassner. [A Multiplexed Network for End-to-End, Multilingual OCR](http://kevinjliang.github.io/files/Multiplexer.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2021.
 
 * Nikhil Mehta, **Kevin J Liang**, Vinay Kumar Verma, Lawrence Carin. [Continual Learning using a Bayesian Nonparametric Dictionary of Weight Factors](http://kevinjliang.github.io/files/IBP_WF_for_CL.pdf), *Artificial Intelligence and Statistics* (**AISTATS**) 2021.
 
@@ -85,6 +84,8 @@ Conferences
 
 Pre-prints
 ------
+* Nathan Inkawhich, **Kevin J Liang**, Jingyang Zhang, Huanrui Yang, Hai Li, and Yiran Chen. [Can Targeted Adversarial Examples Transfer When the Source and Target Models Have No Label Space Overlap?](http://kevinjliang.github.io/files/NoLabelSpaceOverlapTransfers.pdf), 2021
+
 * Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Lawrence Carin. [Meta-Learned Attribute Self-Gating for Continual Generalized Zero-Shot Learning](http://kevinjliang.github.io/files/MCZSL.pdf), 2021.
 
 * Weituo Hao, Nikhil Mehta, **Kevin J Liang**, Pengyu Cheng, Mostafa El-Khamy, Lawrence Carin. [WAFFLe: Weight Anonymized Factorization for Federated Learning](http://kevinjliang.github.io/files/WAFFLe.pdf), 2020.
@@ -102,7 +103,8 @@ Dissertation
 
 Service
 ======
-* Reviewer: AAAI, BMVC, CVPR, ICLR, NeurIPS, TPAMI, WACV
+* Reviewer: AAAI, BMVC, CVPR, ICCV, ICLR, ICML, NeurIPS, TPAMI, WACV
+  * NeurIPS 2020 Top 10% Reviewer, ICLR 2021 Outstanding Reviewer
 * Duke Undergraduate Admissions: Alumni Interviewer (2020-Present)
 * Duke "Engineering a Community": Mentor - (2017-2020)
 * Duke Engineering Alumni Council: Mentor - (2019-2020)

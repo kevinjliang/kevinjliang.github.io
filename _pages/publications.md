@@ -8,9 +8,9 @@ author_profile: true
 
 Conferences
 ------
-* Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Piyush Rai, Lawrence Carin. Efficient Feature Transformations for Discriminative and Generative Incremental Learning, *Computer Vision and Pattern Recognition* (**CVPR**) 2021.
+* Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Piyush Rai, Lawrence Carin. [Efficient Feature Transformations for Discriminative and Generative Incremental Learning](http://kevinjliang.github.io/files/EFTs.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2021.
 
-* Jing Huang, Guan Pang, Rama Kovvuri, Mandy Toh, **Kevin J Liang**, Praveen Krishnan, Xi Yin, Tal Hassner. A Multiplexed Network for End-to-End, Multilingual OCR, *Computer Vision and Pattern Recognition* (**CVPR**) 2021.
+* Jing Huang, Guan Pang, Rama Kovvuri, Mandy Toh, **Kevin J Liang**, Praveen Krishnan, Xi Yin, Tal Hassner. [A Multiplexed Network for End-to-End, Multilingual OCR](http://kevinjliang.github.io/files/Multiplexer.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2021.
 
 * Nikhil Mehta, **Kevin J Liang**, Vinay Kumar Verma, Lawrence Carin. [Continual Learning using a Bayesian Nonparametric Dictionary of Weight Factors](http://kevinjliang.github.io/files/IBP_WF_for_CL.pdf), *Artificial Intelligence and Statistics* (**AISTATS**) 2021.
 
@@ -34,6 +34,8 @@ Conferences
 
 Pre-prints
 ------
+* Nathan Inkawhich, **Kevin J Liang**, Jingyang Zhang, Huanrui Yang, Hai Li, and Yiran Chen. [Can Targeted Adversarial Examples Transfer When the Source and Target Models Have No Label Space Overlap?](http://kevinjliang.github.io/files/NoLabelSpaceOverlapTransfers.pdf), 2021
+
 * Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Lawrence Carin. [Meta-Learned Attribute Self-Gating for Continual Generalized Zero-Shot Learning](http://kevinjliang.github.io/files/MCZSL.pdf), 2021.
 
 * Weituo Hao, Nikhil Mehta, **Kevin J Liang**, Pengyu Cheng, Mostafa El-Khamy, Lawrence Carin. [WAFFLe: Weight Anonymized Factorization for Federated Learning](http://kevinjliang.github.io/files/WAFFLe.pdf), 2020.
