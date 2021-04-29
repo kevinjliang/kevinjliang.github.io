@@ -8,7 +8,7 @@ author_profile: true
 
 Conferences
 ------
-* Weituo Hao, Mostafa El-Khamy, Jungwon Lee, Jianyi Zhang, **Kevin J Liang**, Changyou Chen, Lawrence Carin. Towards Fair Federated Learning with Zero-Shot Data Augmentation, *CVPR Workshop on Fair, Data Efficient and Trusted Computer Vision* (**CVPRw**) 2021.
+* Weituo Hao, Mostafa El-Khamy, Jungwon Lee, Jianyi Zhang, **Kevin J Liang**, Changyou Chen, Lawrence Carin. [Towards Fair Federated Learning with Zero-Shot Data Augmentation](Fed-ZDA.pdf), *CVPR Workshop on Fair, Data Efficient and Trusted Computer Vision* (**CVPRw**) 2021.
 
 * Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Piyush Rai, Lawrence Carin. [Efficient Feature Transformations for Discriminative and Generative Incremental Learning](http://kevinjliang.github.io/files/EFTs.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2021.
 
