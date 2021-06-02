@@ -106,11 +106,14 @@ Dissertation
 Service
 ======
 * Reviewer: AAAI, BMVC, CVPR, ICCV, ICLR, ICML, NeurIPS, TPAMI, WACV
-  * NeurIPS 2020 Top 10% Reviewer, ICLR 2021 Outstanding Reviewer
+  * NeurIPS 2020 Top 10% Reviewer
+  * ICLR 2021 Outstanding Reviewer
+  * CVPR 2021 Outstanding Reviewer
 * Duke Undergraduate Admissions: Alumni Interviewer (2020-Present)
 * Duke "Engineering a Community": Mentor - (2017-2020)
 * Duke Engineering Alumni Council: Mentor - (2019-2020)
 * Duke E-Team: Mentor (2011-2015), ECE chair (2012-2015), President (2013-2015)
+* ICLR 2021 [Mementor](https://mementor.net/#/)
 
 
 Teaching
