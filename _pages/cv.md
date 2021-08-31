@@ -32,8 +32,8 @@ Work experience
 * **Microsoft** - Software Development Engineer Intern (May 2014 - Aug 2014)
 
 * **Duke University** - Undergraduate Research Assistant
-  * Adviser: Leslie Collins (Jan 2014 - May 2015)
-  * Adviser: Guillermo Sapiro (May 2013 - Sep 2013)
+  * Adviser: [Leslie Collins](https://ece.duke.edu/faculty/leslie-collins) (Jan 2014 - May 2015)
+  * Adviser: [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) (May 2013 - Sep 2013)
 
 
 Skills and Qualifications
@@ -58,7 +58,9 @@ Publications
 
 Conferences
 ------
-* Weituo Hao, Mostafa El-Khamy, Jungwon Lee, Jianyi Zhang, **Kevin J Liang**, Changyou Chen, Lawrence Carin. [Towards Fair Federated Learning with Zero-Shot Data Augmentation](http://kevinjliang.github.io/files/Fed-ZDA.pdf), *CVPR Workshop on Fair, Data Efficient and Trusted Computer Vision* (**CVPRw**) 2021.
+* Nathan Inkawhich, **Kevin J Liang**, Jingyang Zhang, Huanrui Yang, Hai Li, and Yiran Chen. [Can Targeted Adversarial Examples Transfer When the Source and Target Models Have No Label Space Overlap?](http://kevinjliang.github.io/files/NoLabelSpaceOverlapTransfers.pdf), *International Conference on Computer Vision Workshop: Adversarial Robustness in the Real World* (**ICCVw**) 2021
+
+* Weituo Hao, Mostafa El-Khamy, Jungwon Lee, Jianyi Zhang, **Kevin J Liang**, Changyou Chen, Lawrence Carin. [Towards Fair Federated Learning with Zero-Shot Data Augmentation](http://kevinjliang.github.io/files/Fed-ZDA.pdf), *Computer Vision and Pattern Recognition Workshop: Fair, Data Efficient and Trusted Computer Vision* (**CVPRw**) 2021.
 
 * Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Piyush Rai, Lawrence Carin. [Efficient Feature Transformations for Discriminative and Generative Incremental Learning](http://kevinjliang.github.io/files/EFTs.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2021.
 
@@ -80,13 +82,12 @@ Conferences
       
 * **Kevin J Liang**\*, Guoyin Wang\*, Yitong Li, Ricardo Henao, Lawrence Carin. [Kernel-Based Approaches for Sequence Modeling: Connections to Neural Methods](http://kevinjliang.github.io/files/kernels2rnns.pdf), *Neural Information Processing Systems* (**NeurIPS**) 2019.
       
-* **Kevin J Liang**, Chunyuan Li, Guoyin Wang, Lawrence Carin. [Generative Adversarial Networks and Continual Learning](http://kevinjliang.github.io/files/GAN_CL_workshop.pdf), *Neural Information Processing Systems: Continual Learning Workshop* (**NeurIPSw**) 2018.
+* **Kevin J Liang**, Chunyuan Li, Guoyin Wang, Lawrence Carin. [Generative Adversarial Networks and Continual Learning](http://kevinjliang.github.io/files/GAN_CL_workshop.pdf), *Neural Information Processing Systems Workshop: Continual Learning* (**NeurIPSw**) 2018.
       
 * **Kevin J Liang**, Geert Heilmann, Christopher Gregory, Souleymane O Diallo, David Carlson, Gregory P. Spell, John B. Sigman, Kris Roe, Lawrence Carin. [Automatic Threat Recognition of Prohibited Items at Aviation Checkpoints with X-ray Imaging: a Deep Learning Approach](http://kevinjliang.github.io/files/spie_tsa_deep_learning.pdf), *SPIE Anomaly Detection and Imaging with X-Rays (ADIX) III* (**SPIE ADIX**) 2018.
 
 Pre-prints
 ------
-* Nathan Inkawhich, **Kevin J Liang**, Jingyang Zhang, Huanrui Yang, Hai Li, and Yiran Chen. [Can Targeted Adversarial Examples Transfer When the Source and Target Models Have No Label Space Overlap?](http://kevinjliang.github.io/files/NoLabelSpaceOverlapTransfers.pdf), 2021
 
 * Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Lawrence Carin. [Meta-Learned Attribute Self-Gating for Continual Generalized Zero-Shot Learning](http://kevinjliang.github.io/files/MCZSL.pdf), 2021.
 
@@ -109,6 +110,7 @@ Service
   * NeurIPS 2020 Top 10% Reviewer
   * ICLR 2021 Outstanding Reviewer
   * CVPR 2021 Outstanding Reviewer
+  * ICCV 2021 Outstanding Reviewer
 * Duke Undergraduate Admissions: Alumni Interviewer (2020-Present)
 * Duke "Engineering a Community": Mentor - (2017-2020)
 * Duke Engineering Alumni Council: Mentor - (2019-2020)

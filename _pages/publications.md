@@ -8,7 +8,9 @@ author_profile: true
 
 Conferences
 ------
-* Weituo Hao, Mostafa El-Khamy, Jungwon Lee, Jianyi Zhang, **Kevin J Liang**, Changyou Chen, Lawrence Carin. [Towards Fair Federated Learning with Zero-Shot Data Augmentation](http://kevinjliang.github.io/files/Fed-ZDA.pdf), *CVPR Workshop on Fair, Data Efficient and Trusted Computer Vision* (**CVPRw**) 2021.
+* Nathan Inkawhich, **Kevin J Liang**, Jingyang Zhang, Huanrui Yang, Hai Li, and Yiran Chen. [Can Targeted Adversarial Examples Transfer When the Source and Target Models Have No Label Space Overlap?](http://kevinjliang.github.io/files/NoLabelSpaceOverlapTransfers.pdf), *International Conference on Computer Vision Workshop: Adversarial Robustness in the Real World* (**ICCVw**) 2021
+
+* Weituo Hao, Mostafa El-Khamy, Jungwon Lee, Jianyi Zhang, **Kevin J Liang**, Changyou Chen, Lawrence Carin. [Towards Fair Federated Learning with Zero-Shot Data Augmentation](http://kevinjliang.github.io/files/Fed-ZDA.pdf), *Computer Vision and Pattern Recognition Workshop: Fair, Data Efficient and Trusted Computer Vision* (**CVPRw**) 2021.
 
 * Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Piyush Rai, Lawrence Carin. [Efficient Feature Transformations for Discriminative and Generative Incremental Learning](http://kevinjliang.github.io/files/EFTs.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2021.
 
@@ -30,13 +32,12 @@ Conferences
       
 * **Kevin J Liang**\*, Guoyin Wang\*, Yitong Li, Ricardo Henao, Lawrence Carin. [Kernel-Based Approaches for Sequence Modeling: Connections to Neural Methods](http://kevinjliang.github.io/files/kernels2rnns.pdf), *Neural Information Processing Systems* (**NeurIPS**) 2019.
       
-* **Kevin J Liang**, Chunyuan Li, Guoyin Wang, Lawrence Carin. [Generative Adversarial Networks and Continual Learning](http://kevinjliang.github.io/files/GAN_CL_workshop.pdf), *Neural Information Processing Systems: Continual Learning Workshop* (**NeurIPSw**) 2018.
+* **Kevin J Liang**, Chunyuan Li, Guoyin Wang, Lawrence Carin. [Generative Adversarial Networks and Continual Learning](http://kevinjliang.github.io/files/GAN_CL_workshop.pdf), *Neural Information Processing Systems Workshop: Continual Learning* (**NeurIPSw**) 2018.
       
 * **Kevin J Liang**, Geert Heilmann, Christopher Gregory, Souleymane O Diallo, David Carlson, Gregory P. Spell, John B. Sigman, Kris Roe, Lawrence Carin. [Automatic Threat Recognition of Prohibited Items at Aviation Checkpoints with X-ray Imaging: a Deep Learning Approach](http://kevinjliang.github.io/files/spie_tsa_deep_learning.pdf), *SPIE Anomaly Detection and Imaging with X-Rays (ADIX) III* (**SPIE ADIX**) 2018.
 
 Pre-prints
 ------
-* Nathan Inkawhich, **Kevin J Liang**, Jingyang Zhang, Huanrui Yang, Hai Li, and Yiran Chen. [Can Targeted Adversarial Examples Transfer When the Source and Target Models Have No Label Space Overlap?](http://kevinjliang.github.io/files/NoLabelSpaceOverlapTransfers.pdf), 2021
 
 * Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Lawrence Carin. [Meta-Learned Attribute Self-Gating for Continual Generalized Zero-Shot Learning](http://kevinjliang.github.io/files/MCZSL.pdf), 2021.
 
