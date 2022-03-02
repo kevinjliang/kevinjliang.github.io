@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* **Facebook** - Research Scientist (Aug 2020 - present)
+* **Meta (Facebook)** - Research Scientist (Aug 2020 - present)
 
 * **Duke University** - Research Assistant (Aug 2015 - Mar 2020)
   * Adviser: Lawrence Carin
@@ -58,6 +58,10 @@ Publications
 
 Conferences
 ------
+* **Kevin J Liang**, Samrudhdhi Rangrej, Vladan Petrovic, Tal Hassner. Few-shot Learning with Noisy Labels, *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
+
+* Li Yin, Juan-Manuel Perez-Rua, **Kevin J Liang**. Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection, *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
+
 * Nathan Inkawhich, **Kevin J Liang**, Jingyang Zhang, Huanrui Yang, Hai Li, and Yiran Chen. [Can Targeted Adversarial Examples Transfer When the Source and Target Models Have No Label Space Overlap?](http://kevinjliang.github.io/files/NoLabelSpaceOverlapTransfers.pdf), *International Conference on Computer Vision Workshop: Adversarial Robustness in the Real World* (**ICCVw**) 2021
 
 * Weituo Hao, Mostafa El-Khamy, Jungwon Lee, Jianyi Zhang, **Kevin J Liang**, Changyou Chen, Lawrence Carin. [Towards Fair Federated Learning with Zero-Shot Data Augmentation](http://kevinjliang.github.io/files/Fed-ZDA.pdf), *Computer Vision and Pattern Recognition Workshop: Fair, Data Efficient and Trusted Computer Vision* (**CVPRw**) 2021.
@@ -89,6 +93,10 @@ Conferences
 Pre-prints
 ------
 
+* Samrudhdhi Bharatkumar Rangrej, **Kevin J Liang**, Xi Yin, Guan Pang, Theofanis Karaletsos, Lior Wolf, Tal Hassner. Revisiting Linear Decision Boundaries for Few-Shot Learning with Transformer Hypernetworks, 2022.
+
+* Sachin Konan, **Kevin J Liang**, Li Yin. [Extending One-Stage Detection with Open-World Proposals](https://arxiv.org/abs/2201.02302), 2022.
+
 * Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Lawrence Carin. [Meta-Learned Attribute Self-Gating for Continual Generalized Zero-Shot Learning](http://kevinjliang.github.io/files/MCZSL.pdf), 2021.
 
 * Weituo Hao, Nikhil Mehta, **Kevin J Liang**, Pengyu Cheng, Mostafa El-Khamy, Lawrence Carin. [WAFFLe: Weight Anonymized Factorization for Federated Learning](http://kevinjliang.github.io/files/WAFFLe.pdf), 2020.
@@ -106,7 +114,7 @@ Dissertation
 
 Service
 ======
-* Reviewer: AAAI, BMVC, CVPR, ICCV, ICLR, ICML, NeurIPS, TPAMI, WACV
+* Reviewer: AAAI, BMVC, CVPR, ECCV, ICCV, ICLR, ICML, NeurIPS, TPAMI, WACV
   * NeurIPS 2020 Top 10% Reviewer
   * ICLR 2021 Outstanding Reviewer
   * CVPR 2021 Outstanding Reviewer

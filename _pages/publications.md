@@ -8,6 +8,10 @@ author_profile: true
 
 Conferences
 ------
+* **Kevin J Liang**, Samrudhdhi Rangrej, Vladan Petrovic, Tal Hassner. Few-shot Learning with Noisy Labels, *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
+
+* Li Yin, Juan-Manuel Perez-Rua, **Kevin J Liang**. Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection, *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
+
 * Nathan Inkawhich, **Kevin J Liang**, Jingyang Zhang, Huanrui Yang, Hai Li, and Yiran Chen. [Can Targeted Adversarial Examples Transfer When the Source and Target Models Have No Label Space Overlap?](http://kevinjliang.github.io/files/NoLabelSpaceOverlapTransfers.pdf), *International Conference on Computer Vision Workshop: Adversarial Robustness in the Real World* (**ICCVw**) 2021
 
 * Weituo Hao, Mostafa El-Khamy, Jungwon Lee, Jianyi Zhang, **Kevin J Liang**, Changyou Chen, Lawrence Carin. [Towards Fair Federated Learning with Zero-Shot Data Augmentation](http://kevinjliang.github.io/files/Fed-ZDA.pdf), *Computer Vision and Pattern Recognition Workshop: Fair, Data Efficient and Trusted Computer Vision* (**CVPRw**) 2021.
@@ -38,6 +42,10 @@ Conferences
 
 Pre-prints
 ------
+
+* Samrudhdhi Bharatkumar Rangrej, **Kevin J Liang**, Xi Yin, Guan Pang, Theofanis Karaletsos, Lior Wolf, Tal Hassner. Revisiting Linear Decision Boundaries for Few-Shot Learning with Transformer Hypernetworks, 2022.
+
+* Sachin Konan, **Kevin J Liang**, Li Yin. [Extending One-Stage Detection with Open-World Proposals](https://arxiv.org/abs/2201.02302), 2022.
 
 * Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Lawrence Carin. [Meta-Learned Attribute Self-Gating for Continual Generalized Zero-Shot Learning](http://kevinjliang.github.io/files/MCZSL.pdf), 2021.
 
