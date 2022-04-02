@@ -8,9 +8,9 @@ author_profile: true
 
 Conferences
 ------
-* **Kevin J Liang**, Samrudhdhi Rangrej, Vladan Petrovic, Tal Hassner. Few-shot Learning with Noisy Labels, *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
+* **Kevin J Liang**, Samrudhdhi Rangrej, Vladan Petrovic, Tal Hassner. [Few-shot Learning with Noisy Labels](http://kevinjliang.github.io/files/Noisy_Few_Shot_Learning.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
 
-* Li Yin, Juan-Manuel Perez-Rua, **Kevin J Liang**. Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection, *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
+* Li Yin, Juan-Manuel Perez-Rua, **Kevin J Liang**. [Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection](http://kevinjliang.github.io/files/sylph.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
 
 * Nathan Inkawhich, **Kevin J Liang**, Jingyang Zhang, Huanrui Yang, Hai Li, and Yiran Chen. [Can Targeted Adversarial Examples Transfer When the Source and Target Models Have No Label Space Overlap?](http://kevinjliang.github.io/files/NoLabelSpaceOverlapTransfers.pdf), *International Conference on Computer Vision Workshop: Adversarial Robustness in the Real World* (**ICCVw**) 2021
 

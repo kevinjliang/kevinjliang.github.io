@@ -20,9 +20,11 @@ Lecturer/Instructor
 * *[Duke Machine Learning School](https://github.com/duke-mlss/Duke-MLSS-2018)* (Summer 2018, Winter 2019)
   * Taught hands-on TensorFlow sessions to a class of 150, including logistic regression, convolutional neural networks, generative adversarial networks, reinforcement learning, and natural language processing.
 
+* *[Infinia ML Machine Learning Bootcamp](https://medium.com/machine-learning-in-practice/machine-learning-bootcamp-for-software-developers-a04bebf9a00b)* (Summer 2018)
+  * Taught hands-on TensorFlow sessions to a class of 100 software developers
+
 * *[Duke-Tsinghua Machine Learning Summer School](https://dukekunshan.edu.cn/en/events/machine-learning-2017)* (Summer 2017)
   * Taught evening sessions to a class of 150 introducing TensorFlow, multilayer perceptrons, convolutional neural networks, and variational autoencoders.	
-
 
 
 Teaching Assistantships
