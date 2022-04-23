@@ -116,9 +116,10 @@ Service
 ======
 * Reviewer: AAAI, BMVC, CVPR, ECCV, ICCV, ICLR, ICML, NeurIPS, TPAMI, WACV
   * NeurIPS 2020 Top 10% Reviewer
-  * ICLR 2021 Outstanding Reviewer
-  * CVPR 2021 Outstanding Reviewer
-  * ICCV 2021 Outstanding Reviewer
+  * [ICLR 2021 Outstanding Reviewer](https://iclr.cc/Conferences/2021/Reviewers)
+  * [CVPR 2021 Outstanding Reviewer](https://cvpr2021.thecvf.com/node/184)
+  * [ICCV 2021 Outstanding Reviewer](https://iccv2021.thecvf.com/outstanding-reviewers)
+  * [ICLR 2022 Highlighted Reviewer](https://iclr.cc/Conferences/2022/Reviewers)
 * Duke Undergraduate Admissions: Alumni Interviewer (2020-Present)
 * Duke "Engineering a Community": Mentor - (2017-2020)
 * Duke Engineering Alumni Council: Mentor - (2019-2020)
