@@ -12,6 +12,8 @@ Conferences
 
 * Li Yin, Juan-Manuel Perez-Rua, **Kevin J Liang**. [Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection](http://kevinjliang.github.io/files/sylph.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
 
+* Weituo Hao, Nikhil Mehta, **Kevin J Liang**, Pengyu Cheng, Mostafa El-Khamy, Lawrence Carin. [WAFFLe: Weight Anonymized Factorization for Federated Learning](http://kevinjliang.github.io/files/WAFFLe.pdf), *IEEE Access* 2022.
+
 * Nathan Inkawhich, **Kevin J Liang**, Jingyang Zhang, Huanrui Yang, Hai Li, and Yiran Chen. [Can Targeted Adversarial Examples Transfer When the Source and Target Models Have No Label Space Overlap?](http://kevinjliang.github.io/files/NoLabelSpaceOverlapTransfers.pdf), *International Conference on Computer Vision Workshop: Adversarial Robustness in the Real World* (**ICCVw**) 2021
 
 * Weituo Hao, Mostafa El-Khamy, Jungwon Lee, Jianyi Zhang, **Kevin J Liang**, Changyou Chen, Lawrence Carin. [Towards Fair Federated Learning with Zero-Shot Data Augmentation](http://kevinjliang.github.io/files/Fed-ZDA.pdf), *Computer Vision and Pattern Recognition Workshop: Fair, Data Efficient and Trusted Computer Vision* (**CVPRw**) 2021.
@@ -48,8 +50,6 @@ Pre-prints
 * Sachin Konan, **Kevin J Liang**, Li Yin. [Extending One-Stage Detection with Open-World Proposals](https://arxiv.org/abs/2201.02302), 2022.
 
 * Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Lawrence Carin. [Meta-Learned Attribute Self-Gating for Continual Generalized Zero-Shot Learning](http://kevinjliang.github.io/files/MCZSL.pdf), 2021.
-
-* Weituo Hao, Nikhil Mehta, **Kevin J Liang**, Pengyu Cheng, Mostafa El-Khamy, Lawrence Carin. [WAFFLe: Weight Anonymized Factorization for Federated Learning](http://kevinjliang.github.io/files/WAFFLe.pdf), 2020.
         
 * **Kevin J Liang**, Chunyuan Li, Guoyin Wang, Lawrence Carin. [Generative Adversarial Networks are a Continual Learning Problem](http://kevinjliang.github.io/files/GAN_is_CL.pdf), 2018.
 

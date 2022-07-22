@@ -40,7 +40,7 @@ Skills and Qualifications
 ======
 * **Software**: Python, PyTorch, TensorFlow, Caffe 2, MATLAB, Java, C, C++, R, Git 
 * **Languages**: English (native), Mandarin Chinese (proficient), and French (limited)
-* **Citizenship**: American, Canadian 
+
 
 Honors & Awards
 ======
@@ -53,6 +53,7 @@ Honors & Awards
 * Eta Kappa Nu (2014 - Present) 
 * Tau Beta Pi (2014 - Present)
 
+
 Publications
 ======
 
@@ -61,6 +62,8 @@ Conferences
 * **Kevin J Liang**, Samrudhdhi Rangrej, Vladan Petrovic, Tal Hassner. [Few-shot Learning with Noisy Labels](http://kevinjliang.github.io/files/Noisy_Few_Shot_Learning.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
 
 * Li Yin, Juan-Manuel Perez-Rua, **Kevin J Liang**. [Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection](http://kevinjliang.github.io/files/sylph.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
+
+* Weituo Hao, Nikhil Mehta, **Kevin J Liang**, Pengyu Cheng, Mostafa El-Khamy, Lawrence Carin. [WAFFLe: Weight Anonymized Factorization for Federated Learning](http://kevinjliang.github.io/files/WAFFLe.pdf), *IEEE Access* 2022.
 
 * Nathan Inkawhich, **Kevin J Liang**, Jingyang Zhang, Huanrui Yang, Hai Li, and Yiran Chen. [Can Targeted Adversarial Examples Transfer When the Source and Target Models Have No Label Space Overlap?](http://kevinjliang.github.io/files/NoLabelSpaceOverlapTransfers.pdf), *International Conference on Computer Vision Workshop: Adversarial Robustness in the Real World* (**ICCVw**) 2021
 
@@ -98,8 +101,6 @@ Pre-prints
 * Sachin Konan, **Kevin J Liang**, Li Yin. [Extending One-Stage Detection with Open-World Proposals](https://arxiv.org/abs/2201.02302), 2022.
 
 * Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Lawrence Carin. [Meta-Learned Attribute Self-Gating for Continual Generalized Zero-Shot Learning](http://kevinjliang.github.io/files/MCZSL.pdf), 2021.
-
-* Weituo Hao, Nikhil Mehta, **Kevin J Liang**, Pengyu Cheng, Mostafa El-Khamy, Lawrence Carin. [WAFFLe: Weight Anonymized Factorization for Federated Learning](http://kevinjliang.github.io/files/WAFFLe.pdf), 2020.
         
 * **Kevin J Liang**, Chunyuan Li, Guoyin Wang, Lawrence Carin. [Generative Adversarial Networks are a Continual Learning Problem](http://kevinjliang.github.io/files/GAN_is_CL.pdf), 2018.
 
@@ -114,12 +115,14 @@ Dissertation
 
 Service
 ======
+* Area Chair: NeurIPS Datasets & Benchmarks Track, AAAI
 * Reviewer: AAAI, BMVC, CVPR, ECCV, ICCV, ICLR, ICML, NeurIPS, TPAMI, WACV
   * NeurIPS 2020 Top 10% Reviewer
   * [ICLR 2021 Outstanding Reviewer](https://iclr.cc/Conferences/2021/Reviewers)
   * [CVPR 2021 Outstanding Reviewer](https://cvpr2021.thecvf.com/node/184)
   * [ICCV 2021 Outstanding Reviewer](https://iccv2021.thecvf.com/outstanding-reviewers)
   * [ICLR 2022 Highlighted Reviewer](https://iclr.cc/Conferences/2022/Reviewers)
+  * [ICML 2022 Outstanding Reviewer](https://icml.cc/Conferences/2022/Reviewers)
 * Duke Undergraduate Admissions: Alumni Interviewer (2020-Present)
 * Duke "Engineering a Community": Mentor - (2017-2020)
 * Duke Engineering Alumni Council: Mentor - (2019-2020)
