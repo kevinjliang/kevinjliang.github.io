@@ -18,10 +18,10 @@ Education
 
 Work experience
 ======
-* **Meta (Facebook)** - Research Scientist (Aug 2020 - present)
+* **Meta (formerly Facebook)** - Research Scientist (Aug 2020 - present)
 
 * **Duke University** - Research Assistant (Aug 2015 - Mar 2020)
-  * Adviser: Lawrence Carin
+  * Adviser: [Lawrence Carin](https://ece.duke.edu/faculty/lawrence-carin)
 
 * **Facebook** - Software Engineer Intern (Jun 2019 - Aug 2019)
   
@@ -54,18 +54,39 @@ Honors & Awards
 * Tau Beta Pi (2014 - Present)
 
 
+Service
+======
+* Area Chair: NeurIPS Datasets & Benchmarks Track, AAAI
+* Reviewer: AAAI, BMVC, CVPR, ECCV, ICCV, ICLR, ICML, NeurIPS, TPAMI, WACV
+  * NeurIPS 2020 Top 10% Reviewer
+  * [ICLR 2021 Outstanding Reviewer](https://iclr.cc/Conferences/2021/Reviewers)
+  * [CVPR 2021 Outstanding Reviewer](https://cvpr2021.thecvf.com/node/184)
+  * [ICCV 2021 Outstanding Reviewer](https://iccv2021.thecvf.com/outstanding-reviewers)
+  * [ICLR 2022 Highlighted Reviewer](https://iclr.cc/Conferences/2022/Reviewers)
+  * [ICML 2022 Outstanding Reviewer](https://icml.cc/Conferences/2022/Reviewers)
+* Duke Undergraduate Admissions: Alumni Interviewer (2020-Present)
+* Duke "Engineering a Community": Mentor - (2017-2020)
+* Duke Engineering Alumni Council: Mentor - (2019-Present)
+* Duke E-Team: Mentor (2011-2015), ECE chair (2012-2015), President (2013-2015)
+* ICLR 2021 [Mementor](https://mementor.net/#/)
+
+
 Publications
 ======
 
-Conferences
+Journals, Conferences, and Workshops
 ------
-* **Kevin J Liang**, Samrudhdhi Rangrej, Vladan Petrovic, Tal Hassner. [Few-shot Learning with Noisy Labels](http://kevinjliang.github.io/files/Noisy_Few_Shot_Learning.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
+* Samrudhdhi B. Rangrej, **Kevin J Liang**, Tal Hassner, James J. Clark. [GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction](http://kevinjliang.github.io/files/GliTr.pdf), *Winter Conference on Applications of Computer Vision* (**WACV**) 2023.
 
-* Li Yin, Juan-Manuel Perez-Rua, **Kevin J Liang**. [Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection](http://kevinjliang.github.io/files/sylph.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
+* Jing Huang, **Kevin J Liang**, Rama Kovvuri, Tal Hassner. [Task Grouping for Multilingual Text Recognition](http://kevinjliang.github.io/files/Multigrouper.pdf), *European Conference on Computer Vision Workshop: Text in Everything* (**ECCVw** - Best Paper) 2022.
 
 * Weituo Hao, Nikhil Mehta, **Kevin J Liang**, Pengyu Cheng, Mostafa El-Khamy, Lawrence Carin. [WAFFLe: Weight Anonymized Factorization for Federated Learning](http://kevinjliang.github.io/files/WAFFLe.pdf), *IEEE Access* 2022.
 
-* Nathan Inkawhich, **Kevin J Liang**, Jingyang Zhang, Huanrui Yang, Hai Li, and Yiran Chen. [Can Targeted Adversarial Examples Transfer When the Source and Target Models Have No Label Space Overlap?](http://kevinjliang.github.io/files/NoLabelSpaceOverlapTransfers.pdf), *International Conference on Computer Vision Workshop: Adversarial Robustness in the Real World* (**ICCVw**) 2021
+* **Kevin J Liang**, Samrudhdhi B. Rangrej, Vladan Petrovic, Tal Hassner. [Few-shot Learning with Noisy Labels](http://kevinjliang.github.io/files/Noisy_Few_Shot_Learning.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
+
+* Li Yin, Juan-Manuel Perez-Rua, **Kevin J Liang**. [Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection](http://kevinjliang.github.io/files/sylph.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
+
+* Nathan Inkawhich, **Kevin J Liang**, Jingyang Zhang, Huanrui Yang, Hai Li, and Yiran Chen. [Can Targeted Adversarial Examples Transfer When the Source and Target Models Have No Label Space Overlap?](http://kevinjliang.github.io/files/NoLabelSpaceOverlapTransfers.pdf), *International Conference on Computer Vision Workshop: Adversarial Robustness in the Real World* (**ICCVw**) 2021.
 
 * Weituo Hao, Mostafa El-Khamy, Jungwon Lee, Jianyi Zhang, **Kevin J Liang**, Changyou Chen, Lawrence Carin. [Towards Fair Federated Learning with Zero-Shot Data Augmentation](http://kevinjliang.github.io/files/Fed-ZDA.pdf), *Computer Vision and Pattern Recognition Workshop: Fair, Data Efficient and Trusted Computer Vision* (**CVPRw**) 2021.
 
@@ -113,21 +134,6 @@ Dissertation
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-Service
-======
-* Area Chair: NeurIPS Datasets & Benchmarks Track, AAAI
-* Reviewer: AAAI, BMVC, CVPR, ECCV, ICCV, ICLR, ICML, NeurIPS, TPAMI, WACV
-  * NeurIPS 2020 Top 10% Reviewer
-  * [ICLR 2021 Outstanding Reviewer](https://iclr.cc/Conferences/2021/Reviewers)
-  * [CVPR 2021 Outstanding Reviewer](https://cvpr2021.thecvf.com/node/184)
-  * [ICCV 2021 Outstanding Reviewer](https://iccv2021.thecvf.com/outstanding-reviewers)
-  * [ICLR 2022 Highlighted Reviewer](https://iclr.cc/Conferences/2022/Reviewers)
-  * [ICML 2022 Outstanding Reviewer](https://icml.cc/Conferences/2022/Reviewers)
-* Duke Undergraduate Admissions: Alumni Interviewer (2020-Present)
-* Duke "Engineering a Community": Mentor - (2017-2020)
-* Duke Engineering Alumni Council: Mentor - (2019-2020)
-* Duke E-Team: Mentor (2011-2015), ECE chair (2012-2015), President (2013-2015)
-* ICLR 2021 [Mementor](https://mementor.net/#/)
 
 
 Teaching

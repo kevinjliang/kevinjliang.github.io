@@ -6,15 +6,19 @@ author_profile: true
 ---
 
 
-Conferences
+Journals, Conferences, and Workshops
 ------
-* **Kevin J Liang**, Samrudhdhi Rangrej, Vladan Petrovic, Tal Hassner. [Few-shot Learning with Noisy Labels](http://kevinjliang.github.io/files/Noisy_Few_Shot_Learning.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
+* Samrudhdhi B. Rangrej, **Kevin J Liang**, Tal Hassner, James J. Clark. [GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction](http://kevinjliang.github.io/files/GliTr.pdf), *Winter Conference on Applications of Computer Vision* (**WACV**) 2023.
 
-* Li Yin, Juan-Manuel Perez-Rua, **Kevin J Liang**. [Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection](http://kevinjliang.github.io/files/sylph.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
+* Jing Huang, **Kevin J Liang**, Rama Kovvuri, Tal Hassner. [Task Grouping for Multilingual Text Recognition](http://kevinjliang.github.io/files/Multigrouper.pdf), *European Conference on Computer Vision Workshop: Text in Everything* (**ECCVw** - Best Paper) 2022.
 
 * Weituo Hao, Nikhil Mehta, **Kevin J Liang**, Pengyu Cheng, Mostafa El-Khamy, Lawrence Carin. [WAFFLe: Weight Anonymized Factorization for Federated Learning](http://kevinjliang.github.io/files/WAFFLe.pdf), *IEEE Access* 2022.
 
-* Nathan Inkawhich, **Kevin J Liang**, Jingyang Zhang, Huanrui Yang, Hai Li, and Yiran Chen. [Can Targeted Adversarial Examples Transfer When the Source and Target Models Have No Label Space Overlap?](http://kevinjliang.github.io/files/NoLabelSpaceOverlapTransfers.pdf), *International Conference on Computer Vision Workshop: Adversarial Robustness in the Real World* (**ICCVw**) 2021
+* **Kevin J Liang**, Samrudhdhi B. Rangrej, Vladan Petrovic, Tal Hassner. [Few-shot Learning with Noisy Labels](http://kevinjliang.github.io/files/Noisy_Few_Shot_Learning.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
+
+* Li Yin, Juan-Manuel Perez-Rua, **Kevin J Liang**. [Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection](http://kevinjliang.github.io/files/sylph.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
+
+* Nathan Inkawhich, **Kevin J Liang**, Jingyang Zhang, Huanrui Yang, Hai Li, and Yiran Chen. [Can Targeted Adversarial Examples Transfer When the Source and Target Models Have No Label Space Overlap?](http://kevinjliang.github.io/files/NoLabelSpaceOverlapTransfers.pdf), *International Conference on Computer Vision Workshop: Adversarial Robustness in the Real World* (**ICCVw**) 2021.
 
 * Weituo Hao, Mostafa El-Khamy, Jungwon Lee, Jianyi Zhang, **Kevin J Liang**, Changyou Chen, Lawrence Carin. [Towards Fair Federated Learning with Zero-Shot Data Augmentation](http://kevinjliang.github.io/files/Fed-ZDA.pdf), *Computer Vision and Pattern Recognition Workshop: Fair, Data Efficient and Trusted Computer Vision* (**CVPRw**) 2021.
 
