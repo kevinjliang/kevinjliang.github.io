@@ -49,6 +49,8 @@ Journals, Conferences, and Workshops
 Pre-prints
 ------
 
+* Hao Tang, **Kevin J Liang**, Kristen Grauman, Matt Feiszli\*, Weiyao Wang\*. EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset, 2023.
+
 * Samrudhdhi Bharatkumar Rangrej, **Kevin J Liang**, Xi Yin, Guan Pang, Theofanis Karaletsos, Lior Wolf, Tal Hassner. Revisiting Linear Decision Boundaries for Few-Shot Learning with Transformer Hypernetworks, 2022.
 
 * Sachin Konan, **Kevin J Liang**, Li Yin. [Extending One-Stage Detection with Open-World Proposals](https://arxiv.org/abs/2201.02302), 2022.

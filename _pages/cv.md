@@ -19,15 +19,19 @@ Education
 Work experience
 ======
 * **Meta (formerly Facebook)** - Research Scientist (Aug 2020 - present)
+  * Fundamental AI Research (FAIR), Egocentric Computer Vision (March 2021 - present)
+  * Facebook AI Applied Research (FAIAR), Computer Vision (October 2020 - March 2021)
 
 * **Duke University** - Research Assistant (Aug 2015 - Mar 2020)
   * Adviser: [Lawrence Carin](https://ece.duke.edu/faculty/lawrence-carin)
 
 * **Facebook** - Software Engineer Intern (Jun 2019 - Aug 2019)
+  * Ads Core ML Modeling
   
 * **Infinia ML** - Data Scientist Intern (May 2018 - Aug 2018)
 
 * **Google** - Software Engineering Intern (May 2017 - Aug 2017)
+  * Cloud AI, Video Understanding
 
 * **Microsoft** - Software Development Engineer Intern (May 2014 - Aug 2014)
 
@@ -116,6 +120,8 @@ Journals, Conferences, and Workshops
 
 Pre-prints
 ------
+
+* Hao Tang, **Kevin J Liang**, Kristen Grauman, Matt Feiszli\*, Weiyao Wang\*. EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset, 2023.
 
 * Samrudhdhi Bharatkumar Rangrej, **Kevin J Liang**, Xi Yin, Guan Pang, Theofanis Karaletsos, Lior Wolf, Tal Hassner. Revisiting Linear Decision Boundaries for Few-Shot Learning with Transformer Hypernetworks, 2022.
 
