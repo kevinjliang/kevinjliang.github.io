@@ -69,6 +69,8 @@ Service
   * [ICLR 2022 Highlighted Reviewer](https://iclr.cc/Conferences/2022/Reviewers)
   * [ICML 2022 Outstanding Reviewer](https://icml.cc/Conferences/2022/Reviewers)
   * [ICLR 2023 Notable Reviewer (60/5K+)](https://blog.iclr.cc/2023/04/05/announcing-notable-reviewers-and-area-chairs-at-iclr-2023/)
+  * [CVPR 2023 Outstanding Reviewer (232/7K+)](https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers)
+  * [ICML 2023 Outstanding Reviewer](https://icml.cc/Conferences/2023/Reviewers)
 * Duke Undergraduate Admissions: Alumni Interviewer (2020-Present)
 * Duke "Engineering a Community": Mentor - (2017-2020)
 * Duke Engineering Alumni Council: Mentor - (2019-Present)
