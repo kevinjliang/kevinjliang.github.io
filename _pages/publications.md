@@ -8,6 +8,10 @@ author_profile: true
 
 Journals, Conferences, and Workshops
 ------
+* Hao Tang, **Kevin J Liang**, Kristen Grauman, Matt Feiszli\*, Weiyao Wang\*. EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset, *Neural Information Processing Systems Track on Datasets and Benchmarks* (**NeurIPS D&B**) 2023.
+
+* Peri Akiva, Jing Huang, **Kevin J Liang**, Xingyu Chen, Rama Kovvuri, Matt Feiszli, Kristin Dana, Tal Hassner. Self-Supervised Object Detection from Egocentric Videos, *International Conference on Computer Vision* (**ICCV**) 2023.
+
 * Samrudhdhi B. Rangrej, **Kevin J Liang**, Tal Hassner, James J. Clark. [GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction](http://kevinjliang.github.io/files/GliTr.pdf), *Winter Conference on Applications of Computer Vision* (**WACV**) 2023.
 
 * Jing Huang, **Kevin J Liang**, Rama Kovvuri, Tal Hassner. [Task Grouping for Multilingual Text Recognition](http://kevinjliang.github.io/files/Multigrouper.pdf), *European Conference on Computer Vision Workshop: Text in Everything* (**ECCVw** - Best Paper) 2022.
@@ -48,8 +52,6 @@ Journals, Conferences, and Workshops
 
 Pre-prints
 ------
-
-* Hao Tang, **Kevin J Liang**, Kristen Grauman, Matt Feiszli\*, Weiyao Wang\*. EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset, 2023.
 
 * Samrudhdhi Bharatkumar Rangrej, **Kevin J Liang**, Xi Yin, Guan Pang, Theofanis Karaletsos, Lior Wolf, Tal Hassner. Revisiting Linear Decision Boundaries for Few-Shot Learning with Transformer Hypernetworks, 2022.
 
