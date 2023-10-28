@@ -8,7 +8,11 @@ author_profile: true
 
 Journals, Conferences, and Workshops
 ------
-* Hao Tang, **Kevin J Liang**, Kristen Grauman, Matt Feiszli\*, Weiyao Wang\*. EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset, *Neural Information Processing Systems Track on Datasets and Benchmarks* (**NeurIPS D&B**) 2023.
+* Nikhli Mehta\*, **Kevin J Liang**\*, Jing Huang, Fu-Jen Chu, Li Yin, Tal Hassner. HyperMix: Out-of-Distribution Detection and Classification in Few-Shot Settings, *Winter Conference on Applications of Computer Vision* (**WACV**) 2024.
+
+* Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Aakansha Mishra, Lawrence Carin. [Meta-Learned Attribute Self-Gating for Continual Generalized Zero-Shot Learning](http://kevinjliang.github.io/files/MCZSL.pdf), *Winter Conference on Applications of Computer Vision* (**WACV**) 2024.
+
+* Hao Tang, **Kevin J Liang**, Kristen Grauman, Matt Feiszli\*, Weiyao Wang\*. [EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset](http://kevinjliang.github.io/files/EgoTracks.pdf), *Neural Information Processing Systems Track on Datasets and Benchmarks* (**NeurIPS D&B**) 2023.
 
 * Peri Akiva, Jing Huang, **Kevin J Liang**, Xingyu Chen, Rama Kovvuri, Matt Feiszli, Kristin Dana, Tal Hassner. Self-Supervised Object Detection from Egocentric Videos, *International Conference on Computer Vision* (**ICCV**) 2023.
 
@@ -57,7 +61,6 @@ Pre-prints
 
 * Sachin Konan, **Kevin J Liang**, Li Yin. [Extending One-Stage Detection with Open-World Proposals](https://arxiv.org/abs/2201.02302), 2022.
 
-* Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Lawrence Carin. [Meta-Learned Attribute Self-Gating for Continual Generalized Zero-Shot Learning](http://kevinjliang.github.io/files/MCZSL.pdf), 2021.
         
 * **Kevin J Liang**, Chunyuan Li, Guoyin Wang, Lawrence Carin. [Generative Adversarial Networks are a Continual Learning Problem](http://kevinjliang.github.io/files/GAN_is_CL.pdf), 2018.
 
