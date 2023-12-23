@@ -82,8 +82,7 @@ Publications
 
 Journals, Conferences, and Workshops
 ------
-
-* Nikhli Mehta\*, **Kevin J Liang**\*, Jing Huang, Fu-Jen Chu, Li Yin, Tal Hassner. HyperMix: Out-of-Distribution Detection and Classification in Few-Shot Settings, *Winter Conference on Applications of Computer Vision* (**WACV**) 2024.
+* Nikhli Mehta\*, **Kevin J Liang**\*, Jing Huang, Fu-Jen Chu, Li Yin, Tal Hassner. [HyperMix: Out-of-Distribution Detection and Classification in Few-Shot Settings](http://kevinjliang.github.io/files/HyperMix.pdf), *Winter Conference on Applications of Computer Vision* (**WACV**) 2024.
 
 * Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Aakansha Mishra, Lawrence Carin. [Meta-Learned Attribute Self-Gating for Continual Generalized Zero-Shot Learning](http://kevinjliang.github.io/files/MCZSL.pdf), *Winter Conference on Applications of Computer Vision* (**WACV**) 2024.
 
@@ -131,6 +130,8 @@ Journals, Conferences, and Workshops
 
 Pre-prints
 ------
+
+* Kristen Grauman, ..., **Kevin J Liang**, ..., et. al. [Ego-Exo4D: Understanding Skilled Human Activity from First-and Third-Person Perspectives](https://ego-exo4d-data.org/paper/ego-exo4d.pdf), 2023.
 
 * Samrudhdhi Bharatkumar Rangrej, **Kevin J Liang**, Xi Yin, Guan Pang, Theofanis Karaletsos, Lior Wolf, Tal Hassner. Revisiting Linear Decision Boundaries for Few-Shot Learning with Transformer Hypernetworks, 2022.
 
