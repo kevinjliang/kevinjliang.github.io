@@ -20,5 +20,6 @@ Before graduate school, I was also at Duke, earning my BSE in 2015 while double 
 As an undergraduate, I was able to work on image processing with [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) and brain-computer interfaces with [Leslie Collins](https://ece.duke.edu/faculty/leslie-collins).
 Outside of research, I was a member of [Sabrosura](http://dukesabrosura.weebly.com/), Duke's premier Latin dance troupe, and enjoyed playing Ultimate frisbee.
 I also enjoy mentoring: I've mentored and advised many students over the years through [Engineering a Community](https://pratt.duke.edu/about/diversity/resources), Engineering Alumni Council, and [E-team](https://pratt.duke.edu/undergrad/students/advising/e-team).
+I currently serve as an interviewer for Duke undergraduate admissions.
 
 Email: kevinjliang [at] meta [dot] com
