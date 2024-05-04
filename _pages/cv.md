@@ -19,8 +19,8 @@ Education
 Work experience
 ======
 * **Meta (formerly Facebook)** - Research Scientist (Aug 2020 - present)
-  * Fundamental AI Research (FAIR), Egocentric Computer Vision (March 2021 - present)
-  * Facebook AI Applied Research (FAIAR), Computer Vision (October 2020 - March 2021)
+  * Fundamental AI Research (FAIR): Egocentric Computer Vision, 3D (March 2021 - present)
+  * Facebook AI Applied Research (FAIAR): Computer Vision (October 2020 - March 2021)
 
 * **Duke University** - Research Assistant (Aug 2015 - Mar 2020)
   * Adviser: [Lawrence Carin](https://ece.duke.edu/faculty/lawrence-carin)
@@ -60,8 +60,8 @@ Honors & Awards
 
 Service
 ======
-* Area Chair: NeurIPS Datasets & Benchmarks Track, AAAI, CVPR
-* Reviewer: AAAI, BMVC, CVPR, ECCV, ICCV, ICLR, ICML, NeurIPS, TPAMI, WACV
+* Area Chair: NeurIPS Datasets & Benchmarks Track (2022, 2023, 2024), AAAI (2023), CVPR (2024)
+* Reviewer: AAAI (2021, 2022), BMVC (2020), CVPR (2021, 2022, 2023), ECCV (2022, 2024), ICCV (2021, 2023), ICLR (2021, 2022, 2023, 2024), ICML (2021, 2022, 2023), NeurIPS (2020, 2022, 2023), TPAMI, WACV (2020)
   * NeurIPS 2020 Top 10% Reviewer
   * [ICLR 2021 Outstanding Reviewer](https://iclr.cc/Conferences/2021/Reviewers)
   * [CVPR 2021 Outstanding Reviewer](https://cvpr2021.thecvf.com/node/184)
@@ -82,9 +82,9 @@ Publications
 
 Journals, Conferences, and Workshops
 ------
-* Weiyao Wang, Pierre Gleize, Hao Tang, Xingyu Chen, **Kevin J Liang**, Matt Feiszli. ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization, *Computer Vision and Pattern Recognition* (**CVPR**) 2024.
+* Weiyao Wang, Pierre Gleize, Hao Tang, Xingyu Chen, **Kevin J Liang**, Matt Feiszli. [ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization](http://kevinjliang.github.io/files/ICON.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2024. ([website](https://weiyaowang.github.io/icon/))
 
-* Kristen Grauman, ..., **Kevin J Liang**, ..., et. al. [Ego-Exo4D: Understanding Skilled Human Activity from First-and Third-Person Perspectives](https://ego-exo4d-data.org), *Computer Vision and Pattern Recognition* (**CVPR**) 2024.
+* Kristen Grauman, ..., **Kevin J Liang**, ..., et. al. [Ego-Exo4D: Understanding Skilled Human Activity from First-and Third-Person Perspectives](https://arxiv.org/abs/2311.18259), *Computer Vision and Pattern Recognition* (**CVPR**) 2024. ([website](https://ego-exo4d-data.org), [video](https://www.youtube.com/watch?v=GdooXEBAnI8))
 
 * Nikhli Mehta\*, **Kevin J Liang**\*, Jing Huang, Fu-Jen Chu, Li Yin, Tal Hassner. [HyperMix: Out-of-Distribution Detection and Classification in Few-Shot Settings](http://kevinjliang.github.io/files/HyperMix.pdf), *Winter Conference on Applications of Computer Vision* (**WACV**) 2024.
 
