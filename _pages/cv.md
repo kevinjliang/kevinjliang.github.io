@@ -71,6 +71,7 @@ Service
   * [ICLR 2023 Notable Reviewer (60/5K+)](https://blog.iclr.cc/2023/04/05/announcing-notable-reviewers-and-area-chairs-at-iclr-2023/)
   * [CVPR 2023 Outstanding Reviewer (232/7K+)](https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers)
   * [ICML 2023 Outstanding Reviewer](https://icml.cc/Conferences/2023/Reviewers)
+  * [ECCV 2024 Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers)
 * Duke Undergraduate Admissions: Alumni Interviewer (2020-Present)
 * Duke "Engineering a Community": Mentor - (2017-2020)
 * Duke Engineering Alumni Council: Mentor - (2019-Present)
@@ -84,7 +85,7 @@ Journals, Conferences, and Workshops
 ------
 * Weiyao Wang, Pierre Gleize, Hao Tang, Xingyu Chen, **Kevin J Liang**, Matt Feiszli. [ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization](http://kevinjliang.github.io/files/ICON.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2024. ([website](https://weiyaowang.github.io/icon/))
 
-* Kristen Grauman, ..., **Kevin J Liang**, ..., et. al. [Ego-Exo4D: Understanding Skilled Human Activity from First-and Third-Person Perspectives](https://arxiv.org/abs/2311.18259), *Computer Vision and Pattern Recognition* (**CVPR**) 2024. ([website](https://ego-exo4d-data.org), [video](https://www.youtube.com/watch?v=GdooXEBAnI8))
+* Kristen Grauman, ..., **Kevin J Liang**, ..., et. al. [Ego-Exo4D: Understanding Skilled Human Activity from First-and Third-Person Perspectives](https://arxiv.org/abs/2311.18259), *Computer Vision and Pattern Recognition* (**CVPR** - Oral) 2024. ([website](https://ego-exo4d-data.org), [video](https://www.youtube.com/watch?v=GdooXEBAnI8))
 
 * Nikhli Mehta\*, **Kevin J Liang**\*, Jing Huang, Fu-Jen Chu, Li Yin, Tal Hassner. [HyperMix: Out-of-Distribution Detection and Classification in Few-Shot Settings](http://kevinjliang.github.io/files/HyperMix.pdf), *Winter Conference on Applications of Computer Vision* (**WACV**) 2024.
 
