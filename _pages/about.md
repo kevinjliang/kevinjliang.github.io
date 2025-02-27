@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Kevin, a Research Scientist at Fundamental AI Research (FAIR) Accel at Meta (formerly Facebook). 
-My research interests are primarily in deep learning, particularly computer vision, continual learning, federated learning, and adversarial attacks. 
+Hi, I'm Kevin, a Research Scientist at Fundamental AI Research (FAIR) at Meta (formerly Facebook). 
+My research interests are in deep learning and computer vision, these days primarily 3D.
 Before Meta, I was at Duke University, where I completed my PhD while advised by [Lawrence Carin](https://ece.duke.edu/faculty/lawrence-carin).
-During my PhD, I interned at Google Cloud AI (2017), [Infinia ML](https://infiniaml.com/) (2018), and Facebook (2019). 
+During my PhD, I interned at Google Cloud AI (2017), Infinia ML (2018), and Facebook (2019). 
 
 I co-taught a number of machine learning courses while at Duke, including the Duke Introduction to Machine Learning [Coursera](https://www.coursera.org/learn/machine-learning-duke), four [Duke Machine Learning Schools](https://github.com/duke-mlss), and numerous [+Data Science](https://plus.datascience.duke.edu/) In-Person Learning Experiences.
 As part of these courses, I created a set of [TensorFlow](https://github.com/duke-mlss/Duke-MLSS-2018) and [PyTorch](https://github.com/kevinjliang/PyTorchTutorials) tutorials.

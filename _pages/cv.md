@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * **Meta (formerly Facebook)** - Research Scientist (Aug 2020 - present)
-  * Fundamental AI Research (FAIR): Egocentric Computer Vision, 3D (March 2021 - present)
+  * Fundamental AI Research (FAIR): Egocentric Computer Vision, 3D Computer Vision (March 2021 - present)
   * Facebook AI Applied Research (FAIAR): Computer Vision (October 2020 - March 2021)
 
 * **Duke University** - Research Assistant (Aug 2015 - Mar 2020)
@@ -61,7 +61,7 @@ Honors & Awards
 Service
 ======
 * Area Chair: NeurIPS Datasets & Benchmarks Track (2022, 2023, 2024), AAAI (2023), CVPR (2024)
-* Reviewer: AAAI (2021, 2022), BMVC (2020), CVPR (2021, 2022, 2023), ECCV (2022, 2024), ICCV (2021, 2023), ICLR (2021, 2022, 2023, 2024), ICML (2021, 2022, 2023), NeurIPS (2020, 2022, 2023), TPAMI, WACV (2020)
+* Reviewer: AAAI (2021, 2022), BMVC (2020), CVPR (2021, 2022, 2023, 2025), ECCV (2022, 2024), ICCV (2021, 2023, 2025), ICLR (2021, 2022, 2023, 2024, 2025), ICML (2021, 2022, 2023), NeurIPS (2020, 2022, 2023), TPAMI, WACV (2020)
   * NeurIPS 2020 Top 10% Reviewer
   * [ICLR 2021 Outstanding Reviewer](https://iclr.cc/Conferences/2021/Reviewers)
   * [CVPR 2021 Outstanding Reviewer](https://cvpr2021.thecvf.com/node/184)
@@ -71,22 +71,26 @@ Service
   * [ICLR 2023 Notable Reviewer (60/5K+)](https://blog.iclr.cc/2023/04/05/announcing-notable-reviewers-and-area-chairs-at-iclr-2023/)
   * [CVPR 2023 Outstanding Reviewer (232/7K+)](https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers)
   * [ICML 2023 Outstanding Reviewer](https://icml.cc/Conferences/2023/Reviewers)
+  * [ECCV 2024 Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers)
 * Duke Undergraduate Admissions: Alumni Interviewer (2020-Present)
 * Duke "Engineering a Community": Mentor - (2017-2020)
 * Duke Engineering Alumni Council: Mentor - (2019-Present)
 * Duke E-Team: Mentor (2011-2015), ECE chair (2012-2015), President (2013-2015)
-
 
 Publications
 ======
 
 Journals, Conferences, and Workshops
 ------
+* Jianing Yang, Alexander Sax, **Kevin J Liang**, Mikael Henaff, Hao Tang, Ang Cao, Joyce Chai, Franziska Meier, Matt Feiszli. [Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass](https://arxiv.org/abs/2501.13928), *Computer Vision and Pattern Recognition* (**CVPR**) 2025.
+
+* Mingzhen Huang, Fu-Jen Chu, Bugra Tekin, **Kevin J Liang**, Haoyu Ma, Weiyao Wang, Xingyu Chen, Pierre Gleize, Hongfei Xue, Siwei Lyu, Kris Kitani, Matt Feiszli, Hao Tang. HOIGPT: Learning Long Sequence Hand-Object Interaction with Language Models, *Computer Vision and Pattern Recognition* (**CVPR**) 2025.
+
+* Kristen Grauman, ..., **Kevin J Liang**, ..., et. al. [Ego-Exo4D: Understanding Skilled Human Activity from First-and Third-Person Perspectives](https://arxiv.org/abs/2311.18259), *Computer Vision and Pattern Recognition* (**CVPR**, **Oral**) 2024. ([website](https://ego-exo4d-data.org), [video](https://www.youtube.com/watch?v=GdooXEBAnI8))
+
 * Weiyao Wang, Pierre Gleize, Hao Tang, Xingyu Chen, **Kevin J Liang**, Matt Feiszli. [ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization](http://kevinjliang.github.io/files/ICON.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2024. ([website](https://weiyaowang.github.io/icon/))
 
-* Kristen Grauman, ..., **Kevin J Liang**, ..., et. al. [Ego-Exo4D: Understanding Skilled Human Activity from First-and Third-Person Perspectives](https://arxiv.org/abs/2311.18259), *Computer Vision and Pattern Recognition* (**CVPR**) 2024. ([website](https://ego-exo4d-data.org), [video](https://www.youtube.com/watch?v=GdooXEBAnI8))
-
-* Nikhli Mehta\*, **Kevin J Liang**\*, Jing Huang, Fu-Jen Chu, Li Yin, Tal Hassner. [HyperMix: Out-of-Distribution Detection and Classification in Few-Shot Settings](http://kevinjliang.github.io/files/HyperMix.pdf), *Winter Conference on Applications of Computer Vision* (**WACV**) 2024.
+* Nikhil Mehta\*, **Kevin J Liang**\*, Jing Huang, Fu-Jen Chu, Li Yin, Tal Hassner. [HyperMix: Out-of-Distribution Detection and Classification in Few-Shot Settings](http://kevinjliang.github.io/files/HyperMix.pdf), *Winter Conference on Applications of Computer Vision* (**WACV**) 2024.
 
 * Vinay Kumar Verma, **Kevin J Liang**, Nikhil Mehta, Aakansha Mishra, Lawrence Carin. [Meta-Learned Attribute Self-Gating for Continual Generalized Zero-Shot Learning](http://kevinjliang.github.io/files/MCZSL.pdf), *Winter Conference on Applications of Computer Vision* (**WACV**) 2024.
 
@@ -134,10 +138,11 @@ Journals, Conferences, and Workshops
 
 Pre-prints
 ------
+* Yunzhi Lin, Yipu Zhao, Fu-Jen Chu, Xingyu Chen, Weiyao Wang, Hao Tang, Patricio A Vela, Matt Feiszli, **Kevin J Liang**. OmniPose6D: Towards Short-Term Object Pose Tracking in Dynamic Scenes from Monocular RGB, 2025.
+
 * Samrudhdhi Bharatkumar Rangrej, **Kevin J Liang**, Xi Yin, Guan Pang, Theofanis Karaletsos, Lior Wolf, Tal Hassner. Revisiting Linear Decision Boundaries for Few-Shot Learning with Transformer Hypernetworks, 2022.
 
 * Sachin Konan, **Kevin J Liang**, Li Yin. [Extending One-Stage Detection with Open-World Proposals](https://arxiv.org/abs/2201.02302), 2022.
-
         
 * **Kevin J Liang**, Chunyuan Li, Guoyin Wang, Lawrence Carin. [Generative Adversarial Networks are a Continual Learning Problem](http://kevinjliang.github.io/files/GAN_is_CL.pdf), 2018.
 
