@@ -12,7 +12,7 @@ Journals, Conferences, and Workshops
 
 * Mingzhen Huang, Fu-Jen Chu, Bugra Tekin, **Kevin J Liang**, Haoyu Ma, Weiyao Wang, Xingyu Chen, Pierre Gleize, Hongfei Xue, Siwei Lyu, Kris Kitani, Matt Feiszli, Hao Tang. HOIGPT: Learning Long Sequence Hand-Object Interaction with Language Models, *Computer Vision and Pattern Recognition* (**CVPR**) 2025.
 
-* Kristen Grauman, ..., **Kevin J Liang**, ..., et. al. [Ego-Exo4D: Understanding Skilled Human Activity from First-and Third-Person Perspectives](https://arxiv.org/abs/2311.18259), *Computer Vision and Pattern Recognition* (**CVPR**, **Oral**) 2024. ([website](https://ego-exo4d-data.org), [video](https://www.youtube.com/watch?v=GdooXEBAnI8))
+* Kristen Grauman, ..., **Kevin J Liang**, ..., et. al. [Ego-Exo4D: Understanding Skilled Human Activity from First-and Third-Person Perspectives](https://arxiv.org/abs/2311.18259), *Computer Vision and Pattern Recognition* (**CVPR** - Oral) 2024. ([website](https://ego-exo4d-data.org), [video](https://www.youtube.com/watch?v=GdooXEBAnI8))
 
 * Weiyao Wang, Pierre Gleize, Hao Tang, Xingyu Chen, **Kevin J Liang**, Matt Feiszli. [ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization](http://kevinjliang.github.io/files/ICON.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2024. ([website](https://weiyaowang.github.io/icon/))
 
