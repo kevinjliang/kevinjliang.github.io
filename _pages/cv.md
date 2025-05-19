@@ -72,6 +72,7 @@ Service
   * [CVPR 2023 Outstanding Reviewer (232/7K+)](https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers)
   * [ICML 2023 Outstanding Reviewer](https://icml.cc/Conferences/2023/Reviewers)
   * [ECCV 2024 Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers)
+  * [CVPR 2025 Outstanding Reviewer](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer)
 * Duke Undergraduate Admissions: Alumni Interviewer (2020-Present)
 * Duke "Engineering a Community": Mentor - (2017-2020)
 * Duke Engineering Alumni Council: Mentor - (2019-Present)
