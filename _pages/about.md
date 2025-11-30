@@ -8,18 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Kevin, a Research Scientist at Fundamental AI Research (FAIR) at Meta (formerly Facebook). 
-My research interests are in deep learning and computer vision, these days primarily 3D.
-Before Meta, I was at Duke University, where I completed my PhD while advised by [Lawrence Carin](https://ece.duke.edu/faculty/lawrence-carin).
-During my PhD, I interned at Google Cloud AI (2017), Infinia ML (2018), and Facebook (2019). 
+Hi, I'm Kevin, currently a Research Scientist at Meta Superintelligence Labs (MSL). 
+My research interests are in deep learning and computer vision, these days primarily in building models for 3D and 4D. 
 
-I co-taught a number of machine learning courses while at Duke, including the Duke Introduction to Machine Learning [Coursera](https://www.coursera.org/learn/machine-learning-duke), four [Duke Machine Learning Schools](https://github.com/duke-mlss), and numerous [+Data Science](https://plus.datascience.duke.edu/) In-Person Learning Experiences.
-As part of these courses, I created a set of [TensorFlow](https://github.com/duke-mlss/Duke-MLSS-2018) and [PyTorch](https://github.com/kevinjliang/PyTorchTutorials) tutorials.
 
-Before graduate school, I was also at Duke, earning my BSE in 2015 while double majoring in Electrical & Computer Engineering and Biomedical Engineering. 
+I previously spent 4 years as a researcher of Fundamental AI Research (FAIR) at Meta, as well as a brief stint in Facebook AI Applied Research (FAIAR).  
+Prior to that, I studied at Duke University, of which I am a triple alumnus: I completed my PhD (+MS) while advised by [Lawrence Carin](https://ece.duke.edu/faculty/lawrence-carin), and before that, earned an [ECE](https://ece.duke.edu/)/[BME](https://bme.duke.edu/) double-major BSE. 
 As an undergraduate, I was able to work on image processing with [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) and brain-computer interfaces with [Leslie Collins](https://ece.duke.edu/faculty/leslie-collins).
-Outside of research, I was a member of [Sabrosura](http://dukesabrosura.weebly.com/), Duke's premier Latin dance troupe, and enjoyed playing Ultimate frisbee.
+Outside of research, I was a member of [Sabrosura](http://dukesabrosura.weebly.com/), Duke's premier Latin dance troupe, and enjoyed playing Ultimate frisbee and tennis (though these days I quite enjoy pickleball).
 I also enjoy mentoring: I've mentored and advised many students over the years through [Engineering a Community](https://pratt.duke.edu/about/diversity/resources), Engineering Alumni Council, and [E-team](https://pratt.duke.edu/undergrad/students/advising/e-team).
-I currently serve as an interviewer for Duke undergraduate admissions.
+I've also served as an interviewer for Duke undergraduate admissions.
 
 Email: kevinjliang [at] meta [dot] com

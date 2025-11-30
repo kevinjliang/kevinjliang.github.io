@@ -8,9 +8,12 @@ author_profile: true
 
 Journals, Conferences, and Workshops
 ------
+
+* Yunzhi Lin, Yipu Zhao, Fu-Jen Chu, Xingyu Chen, Weiyao Wang, Hao Tang, Patricio A Vela, Matt Feiszli, **Kevin J Liang**. [OmniPose6D: Towards Short-Term Object Pose Tracking in Dynamic Scenes from Monocular RGB](https://arxiv.org/abs/2410.06694), *International Conference on Intelligent Robots and Systems* (**IROS**) 2025.
+
 * Jianing Yang, Alexander Sax, **Kevin J Liang**, Mikael Henaff, Hao Tang, Ang Cao, Joyce Chai, Franziska Meier, Matt Feiszli. [Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass](https://arxiv.org/abs/2501.13928), *Computer Vision and Pattern Recognition* (**CVPR**) 2025.
 
-* Mingzhen Huang, Fu-Jen Chu, Bugra Tekin, **Kevin J Liang**, Haoyu Ma, Weiyao Wang, Xingyu Chen, Pierre Gleize, Hongfei Xue, Siwei Lyu, Kris Kitani, Matt Feiszli, Hao Tang. HOIGPT: Learning Long Sequence Hand-Object Interaction with Language Models, *Computer Vision and Pattern Recognition* (**CVPR**) 2025.
+* Mingzhen Huang, Fu-Jen Chu, Bugra Tekin, **Kevin J Liang**, Haoyu Ma, Weiyao Wang, Xingyu Chen, Pierre Gleize, Hongfei Xue, Siwei Lyu, Kris Kitani, Matt Feiszli, Hao Tang. [HOIGPT: Learning Long Sequence Hand-Object Interaction with Language Models](https://arxiv.org/abs/2503.19157), *Computer Vision and Pattern Recognition* (**CVPR**) 2025.
 
 * Kristen Grauman, ..., **Kevin J Liang**, ..., et. al. [Ego-Exo4D: Understanding Skilled Human Activity from First-and Third-Person Perspectives](https://arxiv.org/abs/2311.18259), *Computer Vision and Pattern Recognition* (**CVPR** - Oral) 2024. ([website](https://ego-exo4d-data.org), [video](https://www.youtube.com/watch?v=GdooXEBAnI8))
 
@@ -64,7 +67,10 @@ Journals, Conferences, and Workshops
 
 Pre-prints
 ------
-* Yunzhi Lin, Yipu Zhao, Fu-Jen Chu, Xingyu Chen, Weiyao Wang, Hao Tang, Patricio A Vela, Matt Feiszli, **Kevin J Liang**. OmniPose6D: Towards Short-Term Object Pose Tracking in Dynamic Scenes from Monocular RGB, 2025.
+
+* SAM 3D Team, Xingyu Chen, Fu-Jen Chu, Pierre Gleize, **Kevin J Liang**, Alexander Sax, Hao Tang, Weiyao Wang, Michelle Guo, Thibaut Hardin, Xiang Li, Aohan Lin, Jiawei Liu, Ziqi Ma, Anushka Sagar, Bowen Song, Xiaodong Wang, Jianing Yang, Bowen Zhang, Piotr Dollár, Georgia Gkioxari, Matt Feiszli, Jitendra Malik. [SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624), 2025.
+
+* Runsen Xu, Weiyao Wang, Hao Tang, Xingyu Chen, Xiaodong Wang, Fu-Jen Chu, Dahua Lin, Matt Feiszli, **Kevin J Liang**. [Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models](https://arxiv.org/abs/2505.17015), 2025
 
 * Samrudhdhi Bharatkumar Rangrej, **Kevin J Liang**, Xi Yin, Guan Pang, Theofanis Karaletsos, Lior Wolf, Tal Hassner. Revisiting Linear Decision Boundaries for Few-Shot Learning with Transformer Hypernetworks, 2022.
 

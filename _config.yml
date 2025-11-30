@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kevin J Liang"
 title_separator          : "-"
 name                     : &name "Kevin J Liang"
-description              : &description "Research Scientist at Facebook"
+description              : &description "Research Scientist at Meta"
 url                      : https://kevinjliang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kevinjliang/kevinjliang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kevin J Liang"
   avatar           : "Kevin_Liang.png"
-  bio              : "Research Scientist at Facebook AI Research (Meta). Electrical & Computer Engineering PhD (Deep Learning) from Duke University."
+  bio              : "Research Scientist at Meta. PhD from Duke University."
   location         : 
   employer         :
   pubmed           : 
