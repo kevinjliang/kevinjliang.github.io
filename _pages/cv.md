@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* **Meta (formerly Facebook)** - Research Scientist (Aug 2020 - present)
+* **Meta** - Research Scientist (Aug 2020 - present)
   * Fundamental AI Research (FAIR): Egocentric Computer Vision, 3D Computer Vision (March 2021 - present)
   * Facebook AI Applied Research (FAIAR): Computer Vision (October 2020 - March 2021)
 
@@ -28,8 +28,6 @@ Work experience
 
 * **Facebook** - Software Engineer Intern (Jun 2019 - Aug 2019)
   * Ads Core ML Modeling
-  
-* **Infinia ML** - Data Scientist Intern (May 2018 - Aug 2018)
 
 * **Google** - Software Engineering Intern (May 2017 - Aug 2017)
   * Cloud AI, Video Understanding
@@ -43,19 +41,20 @@ Work experience
 
 Honors & Awards
 ======
+* CVPR 2026 - [Best Paper Honorable Mention](https://arxiv.org/abs/2511.16624)
 * [E Bayard Halsted Fellowship](https://gradschool.duke.edu/about/news/fellowship-snapshots-2017) (2017)
-* *Summa cum laude* (top 5% of graduating class) (2015)
-* [Graduation with Departmental Distinction, Electrical and Computer Engineering](https://ece.duke.edu/undergrad/students/graduation-distinction) (2015)
 * [George Sherrerd III Memorial Award](https://ece.duke.edu/about/news/duke-engineering-celebrates-class-2015) (2015) - Duke top undergraduate ECE award
 * [Da Vinci Award](https://ece.duke.edu/about/news/duke-engineering-celebrates-class-2015) (2015) - Duke top undergraduate BME award
+* *Summa cum laude* (top 5% of graduating class) (2015)
+* [Graduation with Departmental Distinction, Electrical and Computer Engineering](https://ece.duke.edu/undergrad/students/graduation-distinction) (2015)
 * [Tau Beta Pi Scholarship](https://www.tbp.org/memb/ScholarArchives/ScholarBios/ScholarBios14-15.pdf) (2014 - 2015)
-* Eta Kappa Nu (2014 - Present) 
-* Tau Beta Pi (2014 - Present)
+* Eta Kappa Nu
+* Tau Beta Pi
 
 
 Service
 ======
-* Area Chair: NeurIPS Datasets & Benchmarks Track (2022, 2023, 2024), AAAI (2023), CVPR (2024, 2026)
+* Area Chair: NeurIPS Datasets & Benchmarks Track (2022, 2023, 2024), AAAI (2023), CVPR (2024, 2026), ECCV (2026)
 * Reviewer: AAAI (2021, 2022), BMVC (2020), CVPR (2021, 2022, 2023, 2025), ECCV (2022, 2024), ICCV (2021, 2023, 2025), ICLR (2021, 2022, 2023, 2024, 2025), ICML (2021, 2022, 2023), NeurIPS (2020, 2022, 2023), TPAMI, WACV (2020)
   * NeurIPS 2020 Top 10% Reviewer
   * [ICLR 2021 Outstanding Reviewer](https://iclr.cc/Conferences/2021/Reviewers)

@@ -1,7 +1,5 @@
 Lecturer/Instructor
 ------
-* *[Coursera: Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke)* (Summer 2018 - present)
-  * Designed the materials (IPython notebook tutorials) and recorded videos for Duke's deep learning Coursera.
 
 * *[+Data Science](https://plus.datascience.duke.edu)* (Summer 2018 - Spring 2020)
   * Instructor for *EGR190: Introduction to Machine Learning Methods and Practice* and numerous In-Person Learning Experiences: Introduction to TensorFlow, Introduction to PyTorch, PyTorch for Computer Vision, Deep Convolutional Object Detection, Implementing Generative Adversarial Networks in TensorFlow.
@@ -17,6 +15,9 @@ Lecturer/Instructor
 
 * *[Duke-Tsinghua Machine Learning Summer School](https://dukekunshan.edu.cn/en/events/machine-learning-2017)* (Summer 2017)
   * Taught evening sessions to a class of 150 introducing TensorFlow, multilayer perceptrons, convolutional neural networks, and variational autoencoders.	
+
+* *[Coursera: Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke)* 
+  * Designed the materials (IPython notebook tutorials) and recorded videos for Duke's deep learning Coursera.
 
 
 Teaching Assistantships
