@@ -5,4 +5,48 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
+<!-- favicons -->
+<link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ base_path }}/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ base_path }}/images/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon.png">
+
+<!-- uniform Selected Projects card images so titles align -->
+<style>
+  .feature__wrapper .archive__item-teaser {
+    aspect-ratio: 16 / 9;
+  }
+  .feature__wrapper .archive__item-teaser img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  /* tighten sub-section headers (e.g. Teaching) so they don't get full section spacing */
+  .archive h2 {
+    margin-top: 1em;
+  }
+  /* make each Selected Projects card clickable (whole card -> paper) */
+  .feature__wrapper .archive__item {
+    position: relative;
+  }
+  .feature__wrapper .archive__item-title a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .feature__wrapper .archive__item-title a::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+  }
+  /* keep the inline resource links (website/demo/code) clickable above the overlay */
+  .feature__wrapper .archive__item-excerpt a {
+    position: relative;
+    z-index: 2;
+  }
+</style>
+
 <!-- end custom head snippets -->
