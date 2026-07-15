@@ -13,20 +13,11 @@ redirect_from:
 <a href="/files/Kevin_Liang_CV.pdf" class="btn">View CV (PDF)</a>
 
 
-Education
+Experience
 ======
-* **PhD** in Electrical and Computer Engineering, Duke University, 2020
-* **MS** in Electrical and Computer Engineering, Duke University, 2019
-* **BSE** in Electrical and Computer Engineering/Biomedical Engineering, Duke University, 2015
-
-Work experience
-======
-* **Meta** - Research Scientist (2020 - present)
-  * Fundamental AI Research (FAIR): Egocentric Computer Vision, 3D Computer Vision (2021 - present)
-  * Facebook AI Applied Research (FAIAR): Computer Vision (2020 - 2021)
-
-* **Duke University** - Research Assistant (2015 - 2020)
-  * Adviser: [Lawrence Carin](https://ece.duke.edu/faculty/lawrence-carin)
+* **Meta** (FAIR, Meta Superintelligence Labs) - Staff Research Scientist (2020 - present)
+  * SAM 3D: tech lead; data engine + evals co-lead, research [demo](https://aidemos.meta.com/segment-anything/editor/convert-image-to-3d) co-lead, lead [writer](https://arxiv.org/abs/2511.16624), oral [speaker](https://youtu.be/89jso-uEXxA?si=Q8O3lWK8_hXWOkMR&t=2903)
+  * Ego-Exo4D: core contributor; lead for expert commentary + atomic actions, research [video](https://www.youtube.com/watch?v=GdooXEBAnI8) creator
 
 * **Facebook** - Software Engineer Intern (2019)
   * Ads Core ML Modeling
@@ -36,8 +27,14 @@ Work experience
 
 * **Microsoft** - Software Development Engineer Intern (2014)
 
-* **Duke University** - Undergraduate Research Assistant
-  * Advisers: [Leslie Collins](https://ece.duke.edu/faculty/leslie-collins), [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro)
+
+Education
+======
+* **PhD** in Electrical and Computer Engineering, Duke University, 2020
+  * Advisor: [Lawrence Carin](https://ece.duke.edu/faculty/lawrence-carin)
+* **MS** in Electrical and Computer Engineering, Duke University, 2019
+* **BSE** in Electrical and Computer Engineering/Biomedical Engineering, Duke University, 2015
+  * Advisors: [Leslie Collins](https://ece.duke.edu/faculty/leslie-collins), [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro)
 
 
 Selected Publications
